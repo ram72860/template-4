@@ -1,0 +1,276 @@
+.main1 {
+    background: rgb(87, 87, 112);
+    height: 550px;
+    width: 100%;
+}
+
+.sec1 {
+    margin-left: 1100px;
+    font-size: 26px;
+}
+
+.sec1,
+.sec2,
+.sec3 {
+    color: azure;
+}
+
+.sec2 {
+    margin-left: 180px;
+}
+
+.sec3 {
+    margin-left: 200px;
+    margin-top: -33px;
+    font-size: 10px;
+}
+
+
+.sec4 img {
+    height: 210px;
+    width: 180px;
+    margin-left: 330px;
+    margin-top: -10px;
+    position: absolute;
+}
+
+.sec5 img {
+    height: 210px;
+    width: 180px;
+    margin-left: 386px;
+    margin-top: -29px;
+    position: relative;
+}
+
+.sec6 h3,
+input {
+    border-radius: 20px;
+    margin-left: 800px;
+    margin-top: -150px;
+}
+
+.sec6 input:hover {
+    border-radius: 20px;
+    transform: scale(1.04);
+    background-color: rgb(41, 46, 41);
+    color: azure;
+}
+
+.sec6 h3 {
+    color: azure;
+}
+
+.sec6 p {
+    margin-left: 450px;
+    color: azure;
+    margin-top: 5px;
+}
+
+.sec6 button {
+    width: 90px;
+    margin-left: 820px;
+    background-color: rgb(200, 219, 172);
+    color: black;
+}
+
+.sec6 button:hover {
+    border-radius: 20px;
+    color: azure;
+    background-color:green;
+}
+
+.main2 {
+    background: rgb(201, 216, 216);
+    height: 350px;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.main2 h2 {
+    text-align: center;
+}
+
+.main2 h2 {
+    text-align: center;
+}
+
+.sec7,
+.sec8,
+.sec9 {
+    float: left;
+    text-align: center;
+    width: 300px;
+}
+
+.sec7 {
+    margin-left: 190px;
+}
+
+.sec10 button {
+    background-color: rgb(200, 219, 172);
+    color: black;
+    margin-top: 190px;
+    margin-left: -530px;
+}
+
+.sec10 button:hover {
+    border-radius: 20px;
+    background-color: green;
+    color: azure;
+}
+
+.main3 {
+    background: rgb(81, 78, 78);
+    height: 720px;
+    width: 100%;
+    margin-top: -20px;
+}
+
+.main3 h2 {
+    color: azure;
+    text-align: center;
+}
+
+.sec11 {
+    float: left;
+    margin-left: -30px;
+}
+
+.sec12 img {
+    margin-left: 210px;
+    margin-top: 190px;
+    height: 190px;
+    width: 200px;
+}
+
+.sec13 h2,
+p {
+    text-align: center;
+}
+
+.p14 {
+    margin-left: 420px;
+    color: azure;
+}
+
+.hh {
+    margin-left: 410px;
+}
+
+.main4 {
+    background-color: rgb(135, 146, 188);
+    margin-top: 10px;
+    height: 430px;
+    width: 100%;
+    margin-top: -37px;
+}
+
+.main41 {
+    float: left;
+}
+
+.sec17 {
+    /* border: 2px solid black; */
+    background: azure;
+    height: 240px;
+    width: 250px;
+    margin-left: 180px;
+    margin-top: 15px;
+}
+
+.sec17 h3,
+p {
+
+    text-align: center;
+
+}
+
+.sec18 {
+    /* border: 2px solid black; */
+    background: azure;
+    height: 310px;
+    width: 270px;
+    margin-left: 50px;
+    margin-top: -20px;
+    float: left;
+}
+
+.sec18 h3,
+p {
+
+    text-align: center;
+
+}
+
+.sec19 {
+    /* border: 2px solid black; */
+    background: azure;
+    height: 240px;
+    width: 250px;
+    margin-left: 800px;
+    margin-top: 15px;
+}
+
+.sec19 h3,
+p {
+
+    text-align: center;
+
+}
+
+.main5 {
+    background-color: rgb(53, 51, 59);
+    color: azure;
+    height: 190px;
+    width: 100%;
+}
+
+.main5 h1 {
+  
+    margin-top: 20px;
+    text-align: center;
+}
+
+
+.sec20 button {
+    color: black;
+    background: rgb(200, 219, 172);
+    margin-left: 350px;
+    width: 40%;
+   float: left;
+}
+
+.sec20 button:hover {
+    border-radius: 20px;
+    background-color: green;
+    color: azure;
+}
+.bb{
+    color: black;
+    background: rgb(200, 219, 172);
+    left: 200px;
+    margin-top: -40px;
+    margin-left: 700px;
+    width: 10px;
+    
+}
+
+.bb:hover {
+    border-radius: 20px;
+    background-color: green;
+    color: azure;
+}
+    .sec21 button {
+        color: black;
+        background: azure;
+        margin-left: 860px;
+        margin-top: -20px;
+     width: 7%;
+       float: left;
+    }
+    
+    .sec21 button:hover {
+        border-radius: 20px;
+        background-color: green;
+        color: azure;
+    }
